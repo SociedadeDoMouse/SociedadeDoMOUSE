@@ -17,7 +17,7 @@
 - Controle de Frequência Escolar
 - Lançamento de Notas Trimestrais
 - Gerar Relatórios Necessários
-- Guarda e Manipular Dados de Forma Inteligente
+- Guardar e Manipular Dados de Forma Inteligente
 
 
 ## Aprendizados
