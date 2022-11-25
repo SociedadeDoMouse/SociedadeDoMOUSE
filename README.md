@@ -17,7 +17,7 @@
 - Controle de Frequência Escolar
 - Lançamento de Notas Trimestrais
 - Gerar Relatórios Necessários
-- Guardar e Manipular Dados de Forma Inteligente
+- Guarda e Manipular Dados de Forma Inteligente
 
 
 ## Aprendizados
@@ -42,7 +42,7 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 ## Autores
 
 - [@Robert](https://www.linkedin.com/in/robertcostafer/)
-- [@RafaelOliveira](https://www.instagram.com/rafaeldeoliveirab3/)
+- [@RafaelOliveira](https://www.linkedin.com/in/rafael-de-oliveira-116184240/)
 - [@Guilherme](https://www.instagram.com/guiksolare/)
 - [@RafaelAtaíde](https://www.instagram.com/rafa32_32/)
 - [@Emanuel](https://www.instagram.com/lyrio_emanuel/)
