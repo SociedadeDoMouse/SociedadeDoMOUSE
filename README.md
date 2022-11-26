@@ -51,5 +51,5 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 
 ## Suporte
 
-Para suporte, mande um email para sociedadedomouse@hotmail.com.
+Para suporte, mande um email para mousessmails@gmail.com.
 
